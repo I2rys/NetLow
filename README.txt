@@ -23,3 +23,12 @@ No.
 
 How many request can you request using NetLow?
 Depends on the "Request per seconds" argument you used. If you use 1000 that would be approximately 500-50000 requests per minute.
+
+What do I do when NetLow can't send thousands of requests due to overload loop?
+Open index.js then find NetLow_Data.request_again_delay and NetLow_Data.initiate_delay.
+NetLow_Data.request_again_delay is the delay of when the requester will loop again.
+Example:
+NetLow_Data.request_again_delay = 1000 - This will be 1 minute delay for loop request
+
+NetLow_Data.initiate_delay is the delay of when you will run the file/index.js.
+NetLow_Data.initiate_delay = 1000 - This will be 1 minute delay for initiate request.
