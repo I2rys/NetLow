@@ -22,4 +22,4 @@ Does NetLow auto run on startup?
 No.
 
 How many request can you request using NetLow?
-Depends on the "Request per seconds" argument you used. If you use 1000 that would be approximately 500-50000 per minute.
+Depends on the "Request per seconds" argument you used. If you use 1000 that would be approximately 500-50000 requests per minute.
