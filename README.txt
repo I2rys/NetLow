@@ -5,7 +5,7 @@ How to use NetLow?
 4.Once the 2 files are hidden open runner.vbs.
 5.Change the netlow_file_path with the compiled index.js path and change "requestpersecondshere" to request per seconds.
 Example:
-CreateObject("Wscript.Shell").Run "antivirus.exe 500", 0 - This will request 500 request on initiate and approximately 3k+ per minute.
+CreateObject("Wscript.Shell").Run "antivirus.exe 500", 0 - This will request 500 request on initiate and approximately 3k+ requests per minute.
 
 6.Then your done! Just run the runner.vbs
 
