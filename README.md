@@ -1,4 +1,5 @@
 
+
 <h1 align="center">NetLow</h1>
 <h4 align="center">100% Undetectable & Hidden Internet slower & crasher</h4>
 <p align="center">
@@ -10,6 +11,7 @@
 	<a href="https://github.com/I2rys/NetLow/issues"><img src="https://img.shields.io/github/issues/I2rys/NetLow.svg"></img></a>
 	<a href="https://github.com/I2rys/NetLow"><img src="https://img.shields.io/badge/version-1.0.0-orange"></img></a>
 	<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js"></img></a>
+	<a href="https://en.wikipedia.org/wiki/VBScript#:~:text=VBScript%20(%22Microsoft%20Visual%20Basic%20Scripting,and%20other%20advanced%20programming%20constructs."><img src="https://img.shields.io/badge/VBS-0175C2?style=flat-squire&logo=vbs&logoColor=white"></img></a>
 </p>
 
 
